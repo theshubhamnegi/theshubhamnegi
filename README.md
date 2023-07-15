@@ -4,13 +4,13 @@
 <div size='20px'> Hi! My name is Shubham. Thank You for taking the time to view my GitHub Profile  ; ) 
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Subhadeep Chakraborty</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shubham</h1>
 <h3 align="center">I'm an Aspiring Developer and Student from India</h3>
 
 
 
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Handsome;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Handsome;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
