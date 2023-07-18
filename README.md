@@ -10,7 +10,7 @@
 
 
 
- <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Handsome;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Application+Student;Handsome;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,10 +26,10 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Data Science. So,I'm learning **Machine Learning**
+- ☁️ I've keen interest in Data Science. So, I'm learning **Machine Learning**
 
 
-- 💬 Ask me about **AI, react, nodejs, mongoDB**
+- 💬 Ask me about **AI, react, nodeJS, mongoDB**
 
 - 📫 Feel free to reach me out **shubhamnegi18042001@gmail.com**
 
