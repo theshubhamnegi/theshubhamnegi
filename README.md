@@ -132,7 +132,7 @@ telegram
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham180401&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham180401&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shubham180401" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theshubhamnegi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="theshubhamnegi" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -142,7 +142,7 @@ telegram
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham180401&layout=compact&theme=algolia" alt="Shubham180401" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshubhamnegi&layout=compact&theme=algolia" alt="theshubhamnegi" /></a> </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
