@@ -6,8 +6,8 @@
   I'm Shubham
   </span>
   <span style="position: absolute; right: 0;">
-     <a href="https://github.com/nameerakhter" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 18px"></a>
-     <a href="https://www.linkedin.com/in/nameerakhter" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 18px"></a>
+     <a href="https://github.com/theshubhamnegi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 18px"></a>
+     <a href="https://www.linkedin.com/in/shubham-negi-gigacoder/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 18px"></a>
   </span>
 </h1>
 
