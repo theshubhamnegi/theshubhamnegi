@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning to build scalable AI applications with LangChain, ChromaDB, and Distributed Runtime
 - ☁️ I've a keen interest in Data Science. So, I'm learning Machine Learning with Scikit-learn, TensorFlow, PyTorch, and Hugging Face
 - 💬 Ask me about AI, Python, Pandas, NumPy, Plotly, Matplotlib, SciPy, BeautifulSoup, Selenium
-- 📫 Feel free to reach me out shubhamnegi18042001@gmail.com
+- 📫 Feel free to reach me out shubhamnegi.dev@gmail.com
 
 
 <!--h1 without bottom border-->
